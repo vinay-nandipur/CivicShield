@@ -103,7 +103,7 @@ All device registries, identity profiles, and cryptographic states are secured u
 ```
 
 ## 🛠️ Open-Source Implementation Roadmap
-We are building out this global infrastructure completely in the open. We are currently recruiting module leads for the following tracks:
+We are building out this global infrastructure completely in the open. Module leads would work on the following tracks as a immediate step:
 1. **`agent-brain` (Python/FastAPI):** Hardening high-concurrency async tool dispatch protocols and backoff error resilience matrices.
 2. **`firmware-core` (C++/RTOS):** Microcontroller programming for physical, un-stealable biometric anchor tokens and local low-power mesh radios.
 3. **`zk-privacy` (Circom/Rust):** Building and compiling arithmetic circuits for zero-knowledge proximity boundary verifications.
